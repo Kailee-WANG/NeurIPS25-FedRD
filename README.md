@@ -1,1 +1,1 @@
-# Neurips25-FedRD
+# NeurIPS25-FedRD
