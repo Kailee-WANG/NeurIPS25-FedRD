@@ -7,7 +7,7 @@
 
 
 This repository is the official implementation of [**Reducing Divergences for Generalized Federated Learning via Heterogeneity-aware Parameter Guidance**]. (Submitted to **NeurIPS 2025**)
-<img src="./imgs/nips_framework_final.png" width = "80%" height = "" alt="FedRD" TITLE="Overview of FedRD." />
+<img src="./imgs/nips_framework.jpg" width = "80%" height = "" alt="FedRD" TITLE="Overview of FedRD." />
 
 
 ## Paper of our work
