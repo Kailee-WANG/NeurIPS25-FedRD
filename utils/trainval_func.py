@@ -30,9 +30,9 @@ def epoch_site_trainrd(epochs, site_name, args, model, optimzier, scheduler, dat
     
     class_weights = torch.ones(args.num_classes).cuda()  
 
-    for domain in fs_classes[domain]:
-        for cls in fs_classes[domain]:
-            class_weights[cls] = 1.0 + lambda_val
+
+    for cls in fs_classes[domain]:
+        class_weights[cls] = 1.0 + lambda_val
  
     for i, data_list in enumerate(dataloader):
         imgs, labels, domain_labels = data_list
