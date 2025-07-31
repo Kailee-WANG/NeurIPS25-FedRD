@@ -6,7 +6,7 @@
 </p>
 
 
-This repository is the official implementation of [**Reducing Divergences for Generalized Federated Learning via Heterogeneity-aware Parameter Guidance**]. (Submitted to **NeurIPS 2025**)
+This repository is the official implementation of [**Reducing Divergences for Generalized Federated Learning via Heterogeneity-aware Parameter Guidance**]. (Submitted to **AAAI 2026**)
 ![image](./imgs/nips_framework.jpg)
 
 
