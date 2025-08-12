@@ -12,7 +12,7 @@ This repository is the official implementation of [**Reducing Divergences for Ge
 
 ## Paper of our work
 
-Reducing Divergences for Generalized Federated Learning via Heterogeneity-aware Parameter Guidance: [paper link](https://openreview.net/forum?id=fhkgIxJUF0)
+Reducing Divergences for Generalized Federated Learning via Heterogeneity-aware Parameter Guidance: [paper link](https://openreview.net/forum?id=kzId3MPx6H&noteId=kzId3MPx6H)
 
 
 ![image](./imgs/feature.jpg)
